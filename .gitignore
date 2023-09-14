@@ -5,3 +5,6 @@
 /.vs/Notes
 /Notes/bin/Debug
 /Notes/obj
+.vs/
+Notes/bin
+Notes/obj
